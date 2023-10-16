@@ -18,4 +18,7 @@ end
   end
    return docker_size.each {| each | puts each[0]}
 end
+  def latency_check(ip_address)
+    return `ping 127.0.0.1 > time.log && cat time.log | cut -f 7 -d " " | cut -f 2 -d "=" | uplot bar -d, -t "time latency"`
+  end
 end
