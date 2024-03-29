@@ -1,4 +1,4 @@
-# docker_ruby_lister
+# docker-ruby-lister
 A ruby class coded to get all the information on the running docker containers with their names and sizes. You can initialize the class and then pull all the information. pushing a new ruby gem for dockers tomorrow which will not only maintain dockers but also the swarm clusters on the dockers. 
 
 ```
