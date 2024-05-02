@@ -30,7 +30,7 @@ SIZE
 744kB
 41.9MB
 ``` 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
